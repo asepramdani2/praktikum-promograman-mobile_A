@@ -1,7 +1,7 @@
 Informasi Mahasiswa
 Nama       : Asep Ramdani
 NIM        : 2306024
-Kelas      : Pemrograman Mobile A
+Kelas      : A
 Institusi  : institut teknologi Garut
 
 Praktikum Pemrograman Mobile 
